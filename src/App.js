@@ -9,6 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <P> Manda mensagem se apareceu para vc kaio </P>
         <a
           className="App-link"
           href="https://reactjs.org"
